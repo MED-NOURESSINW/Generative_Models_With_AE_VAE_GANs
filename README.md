@@ -50,9 +50,9 @@ MNIST will be downloaded automatically using TensorFlow Datasets.
 ## 🚀 How to Run the Notebook
 1. Launch the Jupyter Notebook
 
-2. Open the notebook files in the repo: `Generative_Models_AE_VAE_GAN.ipynb`
+2. Open the notebook files in the repo: `Generative_Models_With_AE_VAE_GANs`
 
-3. Run each cell in sequence.
+3. Run each cell/file in sequence.
 
 ## 📈 Output Expectations
 - AE and VAE: Visualization of reconstructed digits.
