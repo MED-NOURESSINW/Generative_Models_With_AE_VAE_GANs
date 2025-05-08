@@ -16,7 +16,7 @@ A simple autoencoder network.
 
 The original variational autoencoder network,  using tensorflow_probability
 
-![image](https://github.com/user-attachments/assets/d980fb98-60a5-4666-af4b-4e5a92962d8c)
+![image](https://github.com/user-attachments/assets/ea5ee7db-912d-4bfd-abbd-7ab8a6660062)
 
 
 ### Generative Adversarial Network (GAN) 
