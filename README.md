@@ -10,7 +10,7 @@ This lab introduces three fundamental generative models in deep learning:
 
 A simple autoencoder network.
 
-![image](https://github.com/user-attachments/assets/ae91adfa-6e43-4ee5-8d61-b3038f352d6e)
+![image](https://github.com/user-attachments/assets/612bce3d-6bcf-4193-be6d-7c3fed498338)
 
 ### Variational Autoencoder (VAE)
 
