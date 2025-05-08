@@ -37,8 +37,7 @@ You can install the dependencies using `pip`:
 - soundfile
 - tqdm
 - pandas
-- tf-nightly-2.0-preview==2.0.0.dev20190513
-- tfp-nightly==0.7.0.dev20190508
+- Tensorflow Probability
 
 ### Python Packages
 - tensorflow >= 2.10
