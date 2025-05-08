@@ -23,7 +23,7 @@ The original variational autoencoder network,  using tensorflow_probability
 
 GANs are a form of neural network in which two sub-networks (the encoder and decoder) are trained on opposing loss functions: an encoder that is trained to produce data which is indiscernable from the true data, and a decoder that is trained to discriminate between the data and generated data.
 
-![image](https://github.com/user-attachments/assets/9a82a40a-21db-48eb-a4d5-4679df8a862d)
+![image](https://github.com/user-attachments/assets/ca58cca6-c2dc-40e7-8628-657077b07cd8)
 
 
 All models are implemented using **Python**, **TensorFlow/Keras**, and trained on the **MNIST** dataset.
