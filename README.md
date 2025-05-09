@@ -30,19 +30,13 @@ All models are implemented using **Python**, **TensorFlow/Keras**, and trained o
 
 ## 🧰 Development Environment
 
-### Requirements
-You can install the dependencies using `pip`:
-- numpy
-- matplotlib
-- soundfile
-- tqdm
-- pandas
-- Tensorflow Probability
 
 ### Python Packages
 - tensorflow >= 2.10
 - numpy
 - matplotlib
+- pandas
+  
 ### Dataset
 MNIST will be downloaded automatically using TensorFlow Datasets.
 
